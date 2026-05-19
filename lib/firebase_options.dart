@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyB06LjAJyOM3YaIkbnQn0QTz23igXZ4NSI',
+    apiKey: '',
     appId: '1:800892936885:web:676d7c1c4f02e5bfedd4fc',
     messagingSenderId: '800892936885',
     projectId: 'flutter-demo-sports',
@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAmUI9D0QFVcjCeojdInba8v2_S6JYdx5M',
+    apiKey: '',
     appId: '1:800892936885:android:aec302864ce02226edd4fc',
     messagingSenderId: '800892936885',
     projectId: 'flutter-demo-sports',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCMOXLQhCkdqhcQbehWdBGHwPk-qRepe5c',
+    apiKey: '',
     appId: '1:800892936885:ios:a45ea826ec59ff58edd4fc',
     messagingSenderId: '800892936885',
     projectId: 'flutter-demo-sports',
@@ -67,7 +67,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCMOXLQhCkdqhcQbehWdBGHwPk-qRepe5c',
+    apiKey: '',
     appId: '1:800892936885:ios:a45ea826ec59ff58edd4fc',
     messagingSenderId: '800892936885',
     projectId: 'flutter-demo-sports',
@@ -76,7 +76,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyB06LjAJyOM3YaIkbnQn0QTz23igXZ4NSI',
+    apiKey: '',
     appId: '1:800892936885:web:d4e5fe19c0a2dcb5edd4fc',
     messagingSenderId: '800892936885',
     projectId: 'flutter-demo-sports',
